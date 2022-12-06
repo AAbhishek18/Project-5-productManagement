@@ -1,7 +1,7 @@
 
 # Project-Products-Management
 
-#Uranium
+
 ## Project - Products Management-Rquirement
 
 ### Key points

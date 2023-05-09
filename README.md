@@ -1,6 +1,6 @@
 # Project05_Products-Management
 
-#Uranium
+
 ## Project - Products Management
 
 ### Key points
